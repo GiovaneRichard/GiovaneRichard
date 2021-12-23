@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje estou no últmo período do curso de Ciência da Computação - IFNMG - Campos Montes Claros - MG
+- 🔭 Finalizando a formação em Ciência da Computação - IFNMG - Campos Montes Claros - MG
 - 🌱 Estudando React Native
 - 👯 Estudando Front End e Back End
 
