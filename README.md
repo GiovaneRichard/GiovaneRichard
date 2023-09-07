@@ -28,7 +28,7 @@
   <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/354118/nodejs.svg">
   <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png">
   <img align="center" alt="Giovane-Csharp" height="30" width="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xfAYl4Wt--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/899zzeo7c2i92zv9ukyr.png">
-  <img align="center" alt="Giovane-Csharp" height="55" width="45" src="https://logowik.com/content/uploads/images/laravel8530.jpg"> 
+  <img align="center" alt="Giovane-Csharp" height="40" width="55" src="https://logowik.com/content/uploads/images/laravel8530.jpg"> 
   
   <img align="right" alt="Giovane-pic" height="150" style="border-radius:50px;"    src="https://freepngimg.com/thumb/star_wars/9-2-star-wars-jedi-png.png">
 </div>
