@@ -1,7 +1,7 @@
 ### Olá, eu sou o Giovane Richard
 
 
-<div align="center">
+<div style="text-transform: justify;">
   - 🔭 Sou bacharel em Ciência da Computação, atualmente me dedico ao desenvolvimento Web Full Stack com amplo conhecimento em JavaScript e TypeScript, especializado em PHP Laravel, ReactJS com Next.js e
     Node.js com Nest.js. Possuo experiência sólida no desenvolvimento de aplicações web, utilizando as melhores práticas e tecnologias modernas. Domínio em bancos de dados como Postgres e MySQL para garantir
     a eficiência e a segurança das aplicações. Busco sempre que possível criar soluções robustas e escaláveis, proporcionando uma ótima experiência para o usuário. Estou sempre comprometido em entregar projetos
@@ -12,7 +12,7 @@
 </div>
 ##
 
-<div style="text-transform: justify;">
+<div align="center" >
   <a href="https://github.com/GiovaneRichard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanerichard&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanerichard&layout=compact&langs_count=7&theme=gruvbox"/>
