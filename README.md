@@ -25,8 +25,8 @@
   <img align="center" alt="Giovane-Csharp" height="55" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xfAYl4Wt--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/899zzeo7c2i92zv9ukyr.png">
+  <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png">
+  <img align="center" alt="Giovane-Csharp" height="30" width="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xfAYl4Wt--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/899zzeo7c2i92zv9ukyr.png">
   
   <img align="right" alt="Giovane-pic" height="150" style="border-radius:50px;"    src="https://freepngimg.com/thumb/star_wars/9-2-star-wars-jedi-png.png">
 </div>
