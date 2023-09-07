@@ -1,7 +1,7 @@
 ### Olá, eu sou o Giovane Richard
 
 
-<p style="text-transform: justify; margin-bottom: 1rem;">
+<p style="text-transform: justify; margin-bottom: '1rem';">
   - 🔭 Sou bacharel em Ciência da Computação, atualmente me dedico ao desenvolvimento Web Full Stack com amplo conhecimento em JavaScript e TypeScript, especializado em PHP Laravel, ReactJS com Next.js e
     Node.js com Nest.js. Possuo experiência sólida no desenvolvimento de aplicações web, utilizando as melhores práticas e tecnologias modernas. Domínio em bancos de dados como Postgres e MySQL para garantir
     a eficiência e a segurança das aplicações. Busco sempre que possível criar soluções robustas e escaláveis, proporcionando uma ótima experiência para o usuário. Estou sempre comprometido em entregar projetos
