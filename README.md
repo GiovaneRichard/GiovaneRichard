@@ -26,7 +26,7 @@
   <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Giovane-Csharp" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg](https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png)">
+  <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png">
   
   <img align="right" alt="Giovane-pic" height="150" style="border-radius:50px;"    src="https://freepngimg.com/thumb/star_wars/9-2-star-wars-jedi-png.png">
 </div>
