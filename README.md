@@ -3,9 +3,8 @@
 
 
 - 🔭 Finalizando a formação em Ciência da Computação - IFNMG - Campos Montes Claros - MG
-- 🌱 Estudando React Native
-- 👯 Estudando Front End e Back End
-
+- 🌱 Atualmente estou atuando como CTO (Coordenador Técnico Operacional), e desenvolvedor full stack, na RLV-Tecnologia
+- 👯 Aperfeiçoando meu conhecimento de forma prática com Front: React/Next js e Back: Node/Nest js, entre diversas outras skills, 
 ##
 
 <div align="center">
