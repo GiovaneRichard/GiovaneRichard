@@ -1,7 +1,7 @@
 ### Olá, eu sou o Giovane Richard
 
 
-<div style="text-transform: justify;">
+<p style="text-transform: justify;"
   - 🔭 Sou bacharel em Ciência da Computação, atualmente me dedico ao desenvolvimento Web Full Stack com amplo conhecimento em JavaScript e TypeScript, especializado em PHP Laravel, ReactJS com Next.js e
     Node.js com Nest.js. Possuo experiência sólida no desenvolvimento de aplicações web, utilizando as melhores práticas e tecnologias modernas. Domínio em bancos de dados como Postgres e MySQL para garantir
     a eficiência e a segurança das aplicações. Busco sempre que possível criar soluções robustas e escaláveis, proporcionando uma ótima experiência para o usuário. Estou sempre comprometido em entregar projetos
@@ -9,8 +9,8 @@
   
   - 🌱 Atualmente trabalho como CTO e Dev na RLV Tecnologia, atuando no Desenvolvimento e manutenção Web - PHP Laravel | ReactJS: Next js | Node: Nest js | Javascript | TypeScript | DB: Postgres, mysql. Faço uso de diversas outras tecnologias no dia a dia da empresa.
   <!-- - 👯 Aperfeiçoando meu conhecimento de forma prática com Front: React/Next js e Back: Node/Nest js, entre diversas outras skills, -->
-</div>
-##
+</p>
+
 
 <div align="center" >
   <a href="https://github.com/GiovaneRichard">
